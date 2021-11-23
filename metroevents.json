@@ -1,0 +1,35 @@
+{
+    "useraccounts": [
+        {
+            "username": "gedeedriane",
+            "password": "123",
+            "firstname": "Gede Edriane",
+            "middlename": "Arbon",
+            "lastname": "Tercero",
+            "gender": "Male",
+            "birthday": "January 27, 2000",
+            "email": "gedeedriane@gmail.com"
+            
+        },
+        {
+            "username": "gede",
+            "password": "321",
+            "firstname": "Gede Edriane",
+            "middlename": "Arbon",
+            "lastname": "Tercero",
+            "gender": "Male",
+            "birthday": "January 27, 2000",
+            "email": "gedeedriane@gmail.com"
+        },
+        {
+            "username": "admin",
+            "password": "123",
+            "firstname": "Gede Edriane",
+            "middlename": "Arbon",
+            "lastname": "Tercero",
+            "gender": "Male",
+            "birthday": "January 27, 2000",
+            "email": "gedeedriane@gmail.com"
+        }
+    ]
+}
