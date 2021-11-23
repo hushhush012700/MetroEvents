@@ -1,35 +1,35 @@
 {
     "useraccounts": [
         {
-            "username": "gedeedriane",
-            "password": "123",
-            "firstname": "Gede Edriane",
-            "middlename": "Arbon",
-            "lastname": "Tercero",
-            "gender": "Male",
-            "birthday": "January 27, 2000",
-            "email": "gedeedriane@gmail.com"
+            "Username": "gedeedriane",
+            "Password": "123",
+            "Firstname": "Gede Edriane",
+            "Middlename": "Arbon",
+            "Lastname": "Tercero",
+            "Gender": "Male",
+            "Birthday": "January 27, 2000",
+            "Email": "gedeedriane@gmail.com"
             
         },
         {
-            "username": "gede",
-            "password": "321",
-            "firstname": "Gede Edriane",
-            "middlename": "Arbon",
-            "lastname": "Tercero",
-            "gender": "Male",
-            "birthday": "January 27, 2000",
-            "email": "gedeedriane@gmail.com"
+            "Username": "gede",
+            "Password": "321",
+            "Firstname": "Gede Edriane",
+            "Middlename": "Arbon",
+            "Lastname": "Tercero",
+            "Gender": "Male",
+            "Birthday": "January 27, 2000",
+            "Email": "gedeedriane@gmail.com"
         },
         {
-            "username": "admin",
-            "password": "123",
-            "firstname": "Gede Edriane",
-            "middlename": "Arbon",
-            "lastname": "Tercero",
-            "gender": "Male",
-            "birthday": "January 27, 2000",
-            "email": "gedeedriane@gmail.com"
+            "Username": "admin",
+            "Password": "123",
+            "Firstname": "Gede Edriane",
+            "Middlename": "Arbon",
+            "Lastname": "Tercero",
+            "Gender": "Male",
+            "Birthday": "January 27, 2000",
+            "Email": "gedeedriane@gmail.com"
         }
     ]
 }
